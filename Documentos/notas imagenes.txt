@@ -1,0 +1,16 @@
+Formato nombre
+
+[1][2]-[3][4]-[5]-[6]-[7]-[8].ext
+
+1.- sistema operativo
+2.- version
+3.- programa especializado
+4.- version
+5.- modelo de tarjeta madre
+6.- formato de medio (cf compact flash,hd disco duro)
+7.- fecha (yyyymmdd)
+8.- maquina especifica
+
+Extensiones
+
+img Copia sector por sector (RAW), archivos grandes, incluyen sectores vacios o errores, a veces se requiere volver a generar el MBR para que arranque.
