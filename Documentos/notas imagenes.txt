@@ -8,8 +8,8 @@ Formato nombre
 4.- version
 5.- modelo de tarjeta madre
 6.- formato de medio (cf compact flash,hd disco duro)
-7.- fecha (yyyymmdd)
-8.- maquina especifica
+7.- maquina especifica
+8.- fecha (yyyymmdd)
 
 Extensiones
 
