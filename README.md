@@ -7,22 +7,22 @@
 # Nombre del proyecto
 
 ## Fecha
-* 
+* 2017
 
 ## Descripcion del proyecto
-* 
+* Descripcion de los diferentes tipos de archivo de imagenes de disco
 
 ## Herramientas utilizadas
-* 
+* Linux dd
 
 ## Modelos de PLC, etc.
-* 
+* Varios
 
 ## Autores
-* <a href="http://www.github.com/"></a> <img src="http://www.github.com/.png" height="32" width="32">
+* <a href="http://www.github.com/emmanuel156">emmanuel156</a> <img src="https://avatars3.githubusercontent.com/u/15036095?v=4" height="32" width="32">
 
 ## Comentarios
-* 
+* Ninguno
 
 ## Contenido
 * Carpeta de Diagramas
